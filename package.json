@@ -1,0 +1,23 @@
+{
+  "name": "a02-sagarp26",
+  "version": "1.0.0",
+  "description": "This is a simple package that emulates coin flips in several different ways.",
+  "main": "flip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flip": "node flip.js",
+    "flips": "node flips.js",
+    "guess": "node guess-flip.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a02-sagarp26.git"
+  },
+  "author": "Sagar Patel",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a02-sagarp26/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a02-sagarp26#readme",
+  "type": "module"
+}
